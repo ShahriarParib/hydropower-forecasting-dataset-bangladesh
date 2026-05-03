@@ -28,10 +28,13 @@ This repository contains a processed dataset of hydropower generation from the K
 ## Applications
 - Energy forecasting  
 - Machine learning regression  
-- Climate impact analysis  
+- Climate impact analysis
+- 
+## Contributors
+- Al Shahriar Hossain
+
 
 ## Example Usage
-
 ```python
 import pandas as pd
 
